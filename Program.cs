@@ -49,7 +49,7 @@ namespace ConsoleApplication43
                 szo1=szo1.Substring(0,hanyTolSzam);
                 szo1 += szam1;
             }
-
+// megejgyzés
             return szo1;
         }
     }
